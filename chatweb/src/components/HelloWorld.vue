@@ -4,9 +4,9 @@
       <v-container>
         <!-- Messages Display -->
         <v-list  class="bg-success rounded-3 list">
-          <v-list-item 
+          <v-list-item  
             v-for="(message, index) in messages"
-            :key="index"
+            :key="index" 
           >
             <v-list-item-content>
               <v-list-item-title class="bg-blue rounded w-50 pa-5" >{{ message.text }}</v-list-item-title>
