@@ -5,7 +5,7 @@
  */
 
 // Plugins
-import { registerPlugins } from '@/plugins'
+import { registerPlugins } from './plugins'
 import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
 
 // Components

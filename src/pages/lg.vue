@@ -3,6 +3,6 @@
   </template>
   
   <script setup>
-  import logn from '@/components/login.vue'
+  import logn from '../components/login.vue'
   </script>
   

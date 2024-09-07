@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import home from "@/pages/index.vue"
-import lgnn from "@/pages/lg.vue"
+import home from "../pages/index.vue"
+import lgnn from "../pages/lg.vue"
 
 const routes = [
   {
